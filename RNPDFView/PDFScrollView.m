@@ -83,6 +83,7 @@
     self.layer.borderWidth = 5;    
     self.minimumZoomScale = .25;
     self.maximumZoomScale = 5;
+    self.bounces = NO;
 }
 
 
